@@ -138,3 +138,11 @@ this command:
     	--replay-testcase /tmp/pcr-oracle.test
 
 Thank you!
+
+
+# HP T630 TPM 2.0
+
+Project dedicated to run `tpm-tools` from OpenSUSE on Hewlett Packard Thin Client T630.
+
+The TPM was updated from v1.2 to 2.0 by HP procedure.
+
